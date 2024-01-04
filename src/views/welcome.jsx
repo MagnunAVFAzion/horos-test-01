@@ -98,7 +98,7 @@ export const Welcome = `<html>
           height: 50px;
         }
     </style>
-    <title>Welcome to Horus</title>
+    <title>Ximira, gelo!</title>
   </head>
   <div class="align">
   <i>${logo}</i>
